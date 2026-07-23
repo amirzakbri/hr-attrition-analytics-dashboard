@@ -257,7 +257,7 @@ GitHub:
 https://github.com/amirzakbri
 
 LinkedIn:
-*Linkedin.com/in/amirzakbri*
+https://Linkedin.com/in/amirzakbri
 
 ---
 
